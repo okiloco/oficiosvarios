@@ -1,0 +1,24 @@
+[15-Jun-2018 14:07:47 UTC] PHP Fatal error:  Cannot redeclare get_links() (previously declared in /home/ubuntu/workspace/wp-includes/deprecated.php:924) in /home/ubuntu/workspace/wp-content/plugins/my-plugin/my-plugin.php on line 15
+[15-Jun-2018 14:07:47 UTC] PHP Stack trace:
+[15-Jun-2018 14:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-Jun-2018 14:07:47 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[15-Jun-2018 14:07:50 UTC] PHP Fatal error:  Cannot redeclare get_links() (previously declared in /home/ubuntu/workspace/wp-includes/deprecated.php:924) in /home/ubuntu/workspace/wp-content/plugins/my-plugin/my-plugin.php on line 15
+[15-Jun-2018 14:07:50 UTC] PHP Stack trace:
+[15-Jun-2018 14:07:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-Jun-2018 14:07:50 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-Jun-2018 14:07:50 UTC] PHP Fatal error:  Cannot redeclare get_links() (previously declared in /home/ubuntu/workspace/wp-includes/deprecated.php:924) in /home/ubuntu/workspace/wp-content/plugins/my-plugin/my-plugin.php on line 15
+[15-Jun-2018 14:07:50 UTC] PHP Stack trace:
+[15-Jun-2018 14:07:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-Jun-2018 14:07:50 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-Jun-2018 14:19:35 UTC] PHP Fatal error:  Cannot redeclare get_links() (previously declared in /home/ubuntu/workspace/wp-includes/deprecated.php:924) in /home/ubuntu/workspace/wp-content/plugins/my-plugin/my-plugin.php on line 15
+[15-Jun-2018 14:19:35 UTC] PHP Stack trace:
+[15-Jun-2018 14:19:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-Jun-2018 14:19:35 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[15-Jun-2018 14:19:37 UTC] PHP Fatal error:  Cannot redeclare get_links() (previously declared in /home/ubuntu/workspace/wp-includes/deprecated.php:924) in /home/ubuntu/workspace/wp-content/plugins/my-plugin/my-plugin.php on line 15
+[15-Jun-2018 14:19:37 UTC] PHP Stack trace:
+[15-Jun-2018 14:19:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-Jun-2018 14:19:37 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-Jun-2018 14:19:37 UTC] PHP Fatal error:  Cannot redeclare get_links() (previously declared in /home/ubuntu/workspace/wp-includes/deprecated.php:924) in /home/ubuntu/workspace/wp-content/plugins/my-plugin/my-plugin.php on line 15
+[15-Jun-2018 14:19:37 UTC] PHP Stack trace:
+[15-Jun-2018 14:19:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-Jun-2018 14:19:37 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
